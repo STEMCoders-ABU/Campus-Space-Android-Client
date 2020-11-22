@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Navigation Drawer</string>
+    <string name="offline_message">You are offline</string>
+</resources>

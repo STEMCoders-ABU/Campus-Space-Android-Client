@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorAccent"
+    app:bbn_badgeColor="#FFFF0000"
+    app:bbn_rippleColor="@color/colorPrimary"
+    app:bbn_itemColorActive="@color/colorPrimary"
+    app:bbn_itemColorInactive="@color/White"
+    >
+
+    <item
+        android:id="@+id/resources_home"
+        android:icon="@drawable/ic_home_24dp"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/resources_popular"
+        android:icon="@drawable/ic_favorite_24dp"
+        android:title="@string/popular"
+        />
+    <item
+        android:id="@+id/resources_comments"
+        android:icon="@drawable/ic_comments_24dp"
+        android:title="@string/comments"
+        />
+</menu>

@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Campus Space</string>
+    <string name="quick_find">Quick Find</string>
+    <string name="search_resources">Search Resources</string>
+    <string name="choose_resource_category">Choose Resource Category</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="change_options">Change Options</string>
+    <string name="download">Download</string>
+    <string name="view_resource">View Resource</string>
+    <string name="download_resource">Download Resource</string>
+    <string name="change_display_options">Change Display Options</string>
+    <string name="faculty">Faculty</string>
+    <string name="department">Department</string>
+    <string name="level">Level</string>
+    <string name="course">Course</string>
+    <string name="override_default_options">Override Default Options</string>
+    <string name="reload">Reload</string>
+    <string name="cancel">Cancel</string>
+    <string name="display">Display</string>
+    <string name="category">Category</string>
+    <string name="popular">Popular</string>
+    <string name="comments">Comments</string>
+    <string name="home">Home</string>
+    <string name="downloads">Downloads</string>
+    <string name="search">Search</string>
+    <string name="enter_keyword">Enter Search Keyword</string>
+    <string name="popular_in">Popular in</string>
+    <string name="comment_hint">Enter your comment</string>
+    <string name="comment">Comment</string>
+    <string name="add">Add</string>
+    <string name="search_news">Search News</string>
+    <string name="uploaded_on">uploaded on</string>
+    <string name="view_news">View News</string>
+    <string name="news">News</string>
+    <string name="about_resource">About This Resource</string>
+    <string name="added_on">Added on</string>
+    <string name="storage_permission_alert_message">Campus Space requires access to your device storage to store downloaded files.\n\nDo you wish to grant the permission now?</string>
+    <string name="resource_exists_warning">A similar resource file exists! This will overwrite the existing file.\n\nDo you wish to continue?</string>
+    <string name="warning">Warning</string>
+    <string name="downloading_resource">Downloading Resource</string>
+    <string name="downloaded">Resource Downloaded</string>
+    <string name="resource_download_completed_message">Resource Download completed!</string>
+    <string name="resource_not_found_message">The requested resource does not exist!\n\nThis is an unexpected error. Please kindly report this error.</string>
+    <string name="network_error_message">A network error occurred!</string>
+    <string name="news_contents">News Contents</string>
+    <string name="log_in">Log In</string>
+    <string name="moderation_authentication_message">Only moderators (level representatives or class reps) are required to log in!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="authentication_hint">Please enter your username and password!</string>
+    <string name="authentication_failed_message">Invalid Username or Password</string>
+    <string name="invalid_username">Invalid username!</string>
+    <string name="invalid_password">Invalid password!</string>
+    <string name="pref_is_moderator_logged_key">is_moderator_logged_key</string>
+    <string name="prefs_moderator_username_key">moderator_username_key</string>
+    <string name="prefs_moderator_faculty_id_key">moderator_faculty_id_key</string>
+    <string name="prefs_moderator_password_key">moderator_password_key</string>
+    <string name="prefs_moderator_name_key">moderator_name_key</string>
+    <string name="course_title">Course Title</string>
+    <string name="course_code">Course Code</string>
+    <string name="add_course">Add Course</string>
+    <string name="edit_profile">Edit My Profile</string>
+    <string name="add_resource">Add Resource</string>
+    <string name="manage_resources">Manage Resources</string>
+    <string name="add_news">Add News/Updates</string>
+    <string name="manage_news">Manage News</string>
+    <string name="message_invalid_course_title_code">Please enter the course title and course code first!</string>
+    <string name="message_course_added">Course added!</string>
+    <string name="message_course_exists">Oops! This course already exists</string>
+    <string name="log_out">Log Out</string>
+    <string name="prefs_moderator_email_key">moderator_email_key</string>
+    <string name="prefs_moderator_gender_key">moderator_gender_key</string>
+    <string name="prefs_moderator_phone_key">moderator_phone_key</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="male">Male</string>
+    <string name="resource_name">Resource Name</string>
+    <string name="description">Description</string>
+    <string name="file">File</string>
+    <string name="choose_file">Choose File</string>
+    <string name="no_file_selected">No file selected!</string>
+    <string name="upload_resource">Upload Resource</string>
+    <string name="browse">Browse</string>
+    <string name="news_title">News Title</string>
+    <string name="upload_news">Upload News</string>
+    <string name="filter">Filter</string>
+    <string name="edit_resource">Edit Resource</string>
+    <string name="remove_resource">Remove Resource</string>
+    <string name="update_resource">Update Resource</string>
+    <string name="edit_news">Edit News</string>
+    <string name="remove_news">Remove News</string>
+    <string name="update_news">Update News</string>
+    <string name="resources">RESOURCES</string>
+    <string name="home_resources_info">Departmental materials, documents, textbooks and videos</string>
+    <string name="explore">Explore</string>
+    <string name="news_and_updates">News/Updates</string>
+    <string name="home_news_info">Departmental updates, scholarship opportunities, etc</string>
+    <string name="home_downloads_info">Access downloaded resources offline</string>
+    <string name="preferences">Preferences</string>
+    <string name="home_prefs_info">Tune the app for the best experience</string>
+    <string name="no_downloaded_resources">No Downloaded Resources!</string>
+    <string name="open">Open</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_preferences">Preferences</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="prefs_default_combination_hint">Choose your default combination of faculty, department, course and level</string>
+    <string name="prefs_display_name_hint">Choose a display name to identify you in comments. You can always change this but it is recommended you choose one and stick to it!</string>
+    <string name="enter_display_name">Enter your preferred display name</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="prefs_display_name_key">display_name_key</string>
+    <string name="prefs_faculty_id_key">faculty_id_key</string>
+    <string name="prefs_department_id_key">department_id_key</string>
+    <string name="prefs_level_id_key">level_id_key</string>
+    <string name="prefs_course_id_key">course_id_key</string>
+    <string name="prefs_name">campus-space-prefs</string>
+
+    <!-- About -->
+    <string name="about">
+        Campus Space is a cloud-based socio-academic web application built by STEM Coders Club ABU to provide students and other key players in the learning environment easy access to study materials.\n\nThis platform aims to improve communication as well as dissemination (sharing) of study materials effectively for the best experience!
+    </string>
+    <string name="cs_link_label">Visit Campus Space Website</string>
+    <string name="stem_link_label">Visit STEM Coders Website</string>
+    <string name="cs_link">https://campus-space.com.ng</string>
+    <string name="stem_link">https://stemcoders.com.ng</string>
+</resources>
